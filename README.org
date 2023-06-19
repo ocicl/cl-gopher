@@ -1,0 +1,9 @@
+* cl-gopher
+
+Gopher library in Common Lisp
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/knusbaum/cl-gopher.git |
+| commit  | 0899e7f                                       |
+| systems | cl-gopher                                     |
+|---------+-----------------------------------------------|
