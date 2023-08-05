@@ -4,6 +4,6 @@ Gopher library in Common Lisp
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/knusbaum/cl-gopher.git |
-| commit  | 0899e7f                                       |
+| commit  | 15b7528                                       |
 | systems | cl-gopher                                     |
 |---------+-----------------------------------------------|
